@@ -1,0 +1,8 @@
+streamlit
+protobuf==3.20
+networkx==2.6
+transformers
+sentencepiece
+torch
+numpy
+nltk
